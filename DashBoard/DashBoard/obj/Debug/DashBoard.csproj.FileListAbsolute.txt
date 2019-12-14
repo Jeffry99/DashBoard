@@ -1,0 +1,10 @@
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\DashBoard\DashBoard\DashBoard\obj\Debug\DashBoard.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\DashBoard\DashBoard\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\DashBoard\DashBoard\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\DashBoard\DashBoard\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\DashBoard\DashBoard\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\DashBoard\DashBoard\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\DashBoard\DashBoard\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\DashBoard\DashBoard\DashBoard\obj\Debug\DashBoard.pdb
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\DashBoard\DashBoard\DashBoard\obj\Debug\UNA.DashBoard.Formularios.DashBoardForm.resources
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\DashBoard\DashBoard\DashBoard\obj\Debug\UNA.DashBoard.Formularios.LoginForm.resources

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DashBoard
+namespace UNA.DashBoard.Formularios
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace DashBoard
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new DashBoardForm());
         }
     }
 }

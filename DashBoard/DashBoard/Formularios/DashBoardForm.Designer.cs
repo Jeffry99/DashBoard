@@ -1,6 +1,6 @@
-﻿namespace DashBoard
+﻿namespace UNA.DashBoard.Formularios
 {
-    partial class Form1
+    partial class DashBoardForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,13 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // DashBoardForm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(1106, 621);
+            this.IsMdiContainer = true;
+            this.Name = "DashBoardForm";
+            this.Text = "Sistema de Control Estudiantil";
+            this.Load += new System.EventHandler(this.DashBoardForm_Load);
+            this.MdiChildActivate += new System.EventHandler(this.DashBoardForm_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion
     }
 }
-
